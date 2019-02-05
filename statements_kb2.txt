@@ -1,4 +1,4 @@
-fact: (attacked Ai Nosliw)
+ fact: (attacked Ai Nosliw)
 fact: (diamonds Loot)
 fact: (possesses Ai Loot)
 fact: (needs Sarorah Loot)
