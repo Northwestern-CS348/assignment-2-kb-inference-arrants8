@@ -188,7 +188,7 @@ retracting this fact (and is not asserted), it should also be removed."""
     
 
     def kb_retract(self, fact1):
-         fact = self._get_rule(fact1)
+         """fact = self._get_rule(fact1)
          if fact.asserted:
              fact.asserted = False
          self.kb_delete(fact)
@@ -196,7 +196,7 @@ retracting this fact (and is not asserted), it should also be removed."""
          
          printv("Retracting {!r}", 0, verbose, [fact])
         ####################################################
-        # Student code goes here
+        # Student code goes here"""
         
 
 class InferenceEngine(object):
